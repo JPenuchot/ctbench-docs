@@ -1,0 +1,8 @@
+<map id="grapher::plotter_base_t" name="grapher::plotter_base_t">
+<area shape="rect" id="node1" title=" " alt="" coords="5,143,179,170"/>
+<area shape="rect" id="node2" href="$structgrapher_1_1plotters_1_1plotter__compare__by__t.html" title=" " alt="" coords="250,5,414,47"/>
+<area shape="rect" id="node3" href="$structgrapher_1_1plotters_1_1plotter__compare__t.html" title=" " alt="" coords="261,71,403,112"/>
+<area shape="rect" id="node4" href="$structgrapher_1_1plotters_1_1plotter__debug__t.html" title=" " alt="" coords="263,136,401,177"/>
+<area shape="rect" id="node5" href="$structgrapher_1_1plotters_1_1plotter__grouped__histogram__t.html" title=" " alt="" coords="227,201,437,243"/>
+<area shape="rect" id="node6" href="$structgrapher_1_1plotters_1_1plotter__stack__t.html" title=" " alt="" coords="263,267,401,308"/>
+</map>

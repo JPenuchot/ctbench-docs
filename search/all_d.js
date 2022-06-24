@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['parse_5fargs_0',['parse_args',['../ttw_8hpp.html#ac98ef5cd84d767e5a6d3e123eef2dae0',1,'ttw.hpp']]],
+  ['plot_1',['plot',['../structgrapher_1_1plotters_1_1plotter__stack__t.html#a4cd1ea84a47f0b8b195ea7909dfa7b83',1,'grapher::plotters::plotter_stack_t::plot()'],['../structgrapher_1_1plotter__base__t.html#a1d2f3bba03a771482b13917a356ce66f',1,'grapher::plotter_base_t::plot()'],['../structgrapher_1_1plotters_1_1plotter__grouped__histogram__t.html#aeb43342a0bbe0d258be0d6e46f870b43',1,'grapher::plotters::plotter_grouped_histogram_t::plot()'],['../structgrapher_1_1plotters_1_1plotter__debug__t.html#a657401937799f0e92950dce7c31f5c08',1,'grapher::plotters::plotter_debug_t::plot()'],['../structgrapher_1_1plotters_1_1plotter__compare__by__t.html#a90cd4922557c8b25627fe59277c4986b',1,'grapher::plotters::plotter_compare_by_t::plot()'],['../structgrapher_1_1plotters_1_1plotter__compare__t.html#a05527851984895a47b8c20f3fa46a6fe',1,'grapher::plotters::plotter_compare_t::plot()']]],
+  ['plotter_20configuration_20documentation_2',['Plotter configuration documentation',['../plotter_config.html',1,'']]],
+  ['plotter_5fbase_2ehpp_3',['plotter_base.hpp',['../plotter__base_8hpp.html',1,'']]],
+  ['plotter_5fbase_5ft_4',['plotter_base_t',['../structgrapher_1_1plotter__base__t.html',1,'grapher']]],
+  ['plotter_5fcl_5fvalues_5',['plotter_cl_values',['../namespacegrapher.html#a7a04d1516ea5cd95c907245029f9b992',1,'grapher']]],
+  ['plotter_5fcompare_5fby_5ft_6',['plotter_compare_by_t',['../structgrapher_1_1plotters_1_1plotter__compare__by__t.html',1,'grapher::plotters']]],
+  ['plotter_5fcompare_5ft_7',['plotter_compare_t',['../structgrapher_1_1plotters_1_1plotter__compare__t.html',1,'grapher::plotters']]],
+  ['plotter_5fdebug_5ft_8',['plotter_debug_t',['../structgrapher_1_1plotters_1_1plotter__debug__t.html',1,'grapher::plotters']]],
+  ['plotter_5fgrouped_5fhistogram_5ft_9',['plotter_grouped_histogram_t',['../structgrapher_1_1plotters_1_1plotter__grouped__histogram__t.html',1,'grapher::plotters']]],
+  ['plotter_5fname_5fmap_10',['plotter_name_map',['../namespacegrapher.html#a60bb016a0149a427ece9a0d8e1b03973',1,'grapher']]],
+  ['plotter_5fopt_11',['plotter_opt',['../namespacecli.html#ab969012791755dc0a36ad942056e297d',1,'cli']]],
+  ['plotter_5fstack_5ft_12',['plotter_stack_t',['../structgrapher_1_1plotters_1_1plotter__stack__t.html',1,'grapher::plotters']]],
+  ['plotter_5ft_13',['plotter_t',['../namespacegrapher.html#ae28f76bbf0f6ff67ca293b842bc6065b',1,'grapher']]],
+  ['plotter_5ftype_5ft_14',['plotter_type_t',['../namespacegrapher.html#aa192088d1895a94ae9eafc5cf26172a0',1,'grapher']]],
+  ['plotter_5ftype_5fto_5fplotter_15',['plotter_type_to_plotter',['../namespacegrapher.html#ab8d48f954ba291f7dfdf0e4abf312608',1,'grapher']]],
+  ['plotters_2ecpp_16',['plotters.cpp',['../plotters_8cpp.html',1,'']]],
+  ['plotters_2ehpp_17',['plotters.hpp',['../plotters_8hpp.html',1,'']]],
+  ['point_5fdata_5ft_18',['point_data_t',['../namespacegrapher_1_1plotters.html#aad17b4f89ec0c0b26743391f587824fb',1,'grapher::plotters']]],
+  ['predicate_5ft_19',['predicate_t',['../group__predicates.html#gaa62b1dc09c2e0071fb2a989648081c98',1,'grapher']]],
+  ['predicates_20',['predicates',['../structgrapher_1_1group__descriptor__t.html#a0650e66db663c602d112ede5aa6e52c1',1,'grapher::group_descriptor_t']]],
+  ['predicates_21',['Predicates',['../group__predicates.html',1,'']]],
+  ['predicates_2ecpp_22',['predicates.cpp',['../predicates_8cpp.html',1,'']]],
+  ['predicates_2ehpp_23',['predicates.hpp',['../predicates_8hpp.html',1,'']]]
+];

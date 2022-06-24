@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['generate_5fconfig_5fv_0',['generate_config_v',['../namespacecli.html#a67216dd61bcb01d32a580b662469cabdabd903ed5dcc539ebb7e3eb03155d06b3',1,'cli']]],
+  ['get_5fbench_5fcurves_1',['get_bench_curves',['../namespacegrapher_1_1plotters.html#a129f0b3d9b0a02c192e916a18fb31a53',1,'grapher::plotters']]],
+  ['get_5fdefault_5fconfig_2',['get_default_config',['../structgrapher_1_1plotters_1_1plotter__compare__t.html#a11a5625a8844f823c3d4e1bdfa9b64fb',1,'grapher::plotters::plotter_compare_t::get_default_config()'],['../structgrapher_1_1plotters_1_1plotter__compare__by__t.html#ac832ba05146e65fe84aecca5afcc44d3',1,'grapher::plotters::plotter_compare_by_t::get_default_config()'],['../structgrapher_1_1plotters_1_1plotter__debug__t.html#af7da95494c27a887f6d3a311ed119d3d',1,'grapher::plotters::plotter_debug_t::get_default_config()'],['../structgrapher_1_1plotters_1_1plotter__grouped__histogram__t.html#ad555f8de546a60484b936d930dd8de2d',1,'grapher::plotters::plotter_grouped_histogram_t::get_default_config()'],['../structgrapher_1_1plotter__base__t.html#a7226b22b66de1cbfc2bb6588095af809',1,'grapher::plotter_base_t::get_default_config()'],['../structgrapher_1_1plotters_1_1plotter__stack__t.html#a802cfc3b562ec8a9127b7a8aa05fb448',1,'grapher::plotters::plotter_stack_t::get_default_config()']]],
+  ['get_5fdefault_5fgroup_5fdescriptor_3',['get_default_group_descriptor',['../namespacegrapher.html#ac8170998be65554ee60dd7ae2c3d70de',1,'grapher']]],
+  ['get_5fpredicate_4',['get_predicate',['../group__predicates.html#ga9257423186e2257df96cf2579b266936',1,'grapher']]],
+  ['get_5fpredicates_5',['get_predicates',['../namespacegrapher.html#a014f0cc8160032cfb719ab1d7978d0a1',1,'grapher']]],
+  ['get_5ftimetrace_5ffile_6',['get_timetrace_file',['../ttw_8hpp.html#acf353f31501c3fecb5835fed3f0f0bdc',1,'ttw.hpp']]],
+  ['get_5fvalues_7',['get_values',['../namespacegrapher.html#ab18daa5f2e6a6045d775852d59f9689f',1,'grapher']]],
+  ['grapher_8',['grapher',['../namespacegrapher.html',1,'']]],
+  ['grapher_2dplot_2ecpp_9',['grapher-plot.cpp',['../grapher-plot_8cpp.html',1,'']]],
+  ['grapher_2dutils_2ecpp_10',['grapher-utils.cpp',['../grapher-utils_8cpp.html',1,'']]],
+  ['group_5fdescriptor_5fjson_11',['group_descriptor_json',['../namespacegrapher.html#a7af0d38e161e26154a85289b2e96cfd5',1,'grapher']]],
+  ['group_5fdescriptor_5ft_12',['group_descriptor_t',['../structgrapher_1_1group__descriptor__t.html',1,'grapher']]],
+  ['grouped_5fhistogram_2ecpp_13',['grouped_histogram.cpp',['../grouped__histogram_8cpp.html',1,'']]],
+  ['grouped_5fhistogram_2ehpp_14',['grouped_histogram.hpp',['../grouped__histogram_8hpp.html',1,'']]],
+  ['plotters_15',['plotters',['../namespacegrapher_1_1plotters.html',1,'grapher']]],
+  ['predicates_16',['predicates',['../namespacegrapher_1_1predicates.html',1,'grapher']]]
+];
